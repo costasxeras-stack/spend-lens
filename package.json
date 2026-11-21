@@ -1,0 +1,10 @@
+{
+  "name": "spend-lens",
+  "version": "0.1.0",
+  "description": "Import your bank's CSV export and see where the money goes: automatic categories you can teach, monthly budgets with early warnings, and subscriptions found for you. Nothing leaves your browser.",
+  "private": true,
+  "scripts": {
+    "serve": "python3 -m http.server 8000"
+  },
+  "license": "MIT"
+}
