@@ -56,9 +56,9 @@ No usage data yet. These are the measures I would track, with targets to set aft
 2. Shared budgets for two people from two exports
 3. Better place names with a small dictionary of Polish card descriptors
 
-## How it was built
+## My role
 
-I defined the problem, the users, the features and the decisions. Claude (Anthropic) was my engineering partner for the code. The idea started from an example in Justin McKelvey's list of vibe coding projects, which I turned into a full app with my own product choices. Screenshots use the app's made-up sample data.
+I defined the problem, the users, the features and the decisions. The idea started from an example in Justin McKelvey's list of project ideas, which I turned into a full app with my own product choices. Screenshots use the app's made-up sample data.
 
 ## Run it yourself
 

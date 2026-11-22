@@ -64,4 +64,4 @@ No usage data yet, so there are no findings. These are hypotheses to test with r
 
 ## My role
 
-I defined the problem, the users, the features and the decisions, and tested every flow. Claude (Anthropic) wrote the code with me. The idea started from an example in Justin McKelvey's list of vibe coding projects, which I turned into a full app with my own product choices.
+I defined the problem, the users, the features and the decisions, and tested every flow. The idea started from an example in Justin McKelvey's list of project ideas, which I turned into a full app with my own product choices.
